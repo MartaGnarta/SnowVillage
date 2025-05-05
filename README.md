@@ -19,9 +19,3 @@ Este proyecto consiste en la integración de sonidos en una escena 3D creada con
 - C#
 - Asset Store (recursos gratuitos)
 
-## Contribuciones
-Si deseas contribuir, siéntete libre de hacer un **fork** y enviar un **pull request** con tus mejoras.
-
----
-
-**¡Disfruta de la experiencia sonora en Unity!** 🎧🌨️
